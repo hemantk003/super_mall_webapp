@@ -7,14 +7,14 @@ import { getDatabase } from "firebase/database";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDZaCg64gmfNU9AvIJ8FpTF0UgSUnc_LhA",
+  apiKey: "",
   authDomain: "super-mall-web-applicati-22e23.firebaseapp.com",
   databaseURL:
-    "https://super-mall-web-applicati-22e23-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "",
   projectId: "super-mall-web-applicati-22e23",
   storageBucket: "super-mall-web-applicati-22e23.appspot.com",
   messagingSenderId: "306244265724",
-  appId: "1:306244265724:web:eb7560895ebcf8924f5979",
+  appId: "",
   measurementId: "G-E6ZQWVGX17",
 };
 // Initialize Firebase
